@@ -60,7 +60,7 @@ theme[free_mid]="#59e3e3"
 theme[free_end]="#6be4e6"
 
 
-theme[cached_start]="#ee64ac"
+theme[cached_start]="#fab795"
 theme[cached_mid]="#f075b5"
 theme[cached_end]="#ec6a88"
 
@@ -70,7 +70,7 @@ theme[available_mid]="#3fdaa4"
 theme[available_end]="#26bbd9"
 
 
-theme[used_start]="#e95678"
+theme[used_start]="#fab795"
 theme[used_mid]="#ec6a88"
 theme[used_end]="#ee64ac"
 
