@@ -11,7 +11,7 @@ A warm, vibrant dark theme for Omarchy using the Horizon Dark color scheme with 
 Use the Omarchy theme installer:
 
 ```bash
-omarchy-theme-install https://github.com/oldjobobo/omarchy-event-horizon-theme
+omaniri-theme-install https://github.com/oldjobobo/omarchy-event-horizon-theme
 ```
 
 ## What's included
